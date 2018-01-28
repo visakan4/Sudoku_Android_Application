@@ -4,9 +4,12 @@
     <string name="options">Options</string>
     <string name="highscores">High Scores</string>
     <string name="about">About</string>
+    <string name="game">Game</string>
     <string name="title_activity_play_levels_page">play_levels_page</string>
     <string name="title_activity_levels">LevelsActivity</string>
     <string name="easy">Easy</string>
     <string name="hard">Medium</string>
     <string name="medium">Hard</string>
+    <string name="title_activity_options">OptionsActivity</string>
+    <string name="title_activity_game">GameActivity</string>
 </resources>
