@@ -1,3 +1,3 @@
 # Sudoku_Android_Application
 
-Ongoing project
+Code complete. Code would be updated soon
